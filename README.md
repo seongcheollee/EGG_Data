@@ -33,25 +33,29 @@
 **Step 1:** Classification, Keyword Extraction, Embedding Transformation 
 <img width="854" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/297b0349-e2ff-4f6c-b65a-ec264a4a933f">
 
-![image](https://github.com/seongcheollee/EGG_Data/assets/59824783/297b0349-e2ff-4f6c-b65a-ec264a4a933f)
 
 **Step 2:** Create a Reference Map 
+<img width="854" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/dfc6eb32-f767-4c4e-867e-d4833731aee4">
 
 ![image](https://github.com/seongcheollee/EGG_Data/assets/59824783/dfc6eb32-f767-4c4e-867e-d4833731aee4)
 
 **Step 3:** Add a linking column to the Step 1 data using the Reference Map DataFrame 
+<img width="854" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/0a1accd7-6bea-4c71-b4f9-f3274cabf202">
 
 ![image](https://github.com/seongcheollee/EGG_Data/assets/59824783/0a1accd7-6bea-4c71-b4f9-f3274cabf202)
 
 **Step 4:** Generate the Total Graph using networkX 
+<img width="854" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/7939c414-3ef0-4001-b72a-dbac7b3edb51">
 
 ![image](https://github.com/seongcheollee/EGG_Data/assets/59824783/7939c414-3ef0-4001-b72a-dbac7b3edb51)
 
 **Step 5:** Extract a subgraph when the user selects one paper 
+<img width="854" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/7df8c8f8-a13f-4a16-83be-987428b6ed55">
 
 ![image](https://github.com/seongcheollee/EGG_Data/assets/59824783/7df8c8f8-a13f-4a16-83be-987428b6ed55)
 
 **Step 6:** Extract a subgraph when the user selects more than two papers 
+<img width="854" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/3eaab726-32d8-461f-9b2c-c88566ffb6b4">
 
 ![image](https://github.com/seongcheollee/EGG_Data/assets/59824783/3eaab726-32d8-461f-9b2c-c88566ffb6b4)
 
