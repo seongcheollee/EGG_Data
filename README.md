@@ -21,11 +21,11 @@
 </div>
 
 ### Data PipeLine
-<img width="400" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/2db8003c-42d3-4092-b86b-ce037532dde1">
+<img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/2db8003c-42d3-4092-b86b-ce037532dde1">
 
 
 # Data Flow
-<img width="400" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/8a6ad6f1-cb8f-4c76-a4b2-0ba6f3a1717d">
+<img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/8a6ad6f1-cb8f-4c76-a4b2-0ba6f3a1717d">
 
 
 # Graph Generate Method
@@ -57,7 +57,7 @@
 
 <img width="300" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/3eaab726-32d8-461f-9b2c-c88566ffb6b4">
 
-**Step 7:** Extract Node, Edge data and Transfer Client 
+**Step 7:** Extract Node, Edge data and Transfer Client
 
 
 
