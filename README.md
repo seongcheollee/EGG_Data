@@ -21,7 +21,7 @@
 </div>
 
 ### System Architecture
-<img width="669" alt="systemArich" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/99f3a64a-bfbf-4f5b-827f-cbb8905c4431">
+<img width="854" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/2db8003c-42d3-4092-b86b-ce037532dde1">
 
 ### Environment configuration on Ec2
 
