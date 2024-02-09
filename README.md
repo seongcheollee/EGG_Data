@@ -21,7 +21,7 @@
 </div>
 
 ### Data PipeLine
-<img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/2db8003c-42d3-4092-b86b-ce037532dde1">
+<img width="600" alt="image" src="https://github.com/seongcheollee/EGG/assets/59824783/f31494d8-a5ff-4371-b5ff-994af5136b99">
 
 
 # Data Flow
