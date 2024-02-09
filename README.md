@@ -31,12 +31,12 @@
 # Graph Generate Method
 **Step 1:** Classification, Keyword Extraction, Embedding Transformation 
   
-<img width="400" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/297b0349-e2ff-4f6c-b65a-ec264a4a933f">
+<img width="300" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/297b0349-e2ff-4f6c-b65a-ec264a4a933f">
 
 
 **Step 2:** Create a Reference Map 
   
-<img width="400" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/dfc6eb32-f767-4c4e-867e-d4833731aee4">
+<img width="300" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/dfc6eb32-f767-4c4e-867e-d4833731aee4">
 
 **Step 3:** Add a linking column to the Step 1 data using the Reference Map DataFrame 
 
