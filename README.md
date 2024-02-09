@@ -20,14 +20,9 @@
 
 </div>
 
-### System Architecture
+### Data PipeLine
 <img width="854" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/2db8003c-42d3-4092-b86b-ce037532dde1">
 
-### Environment configuration on Ec2
-
-<div>
-<img width="500" alt="ec2" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/e95dc848-d2c0-416d-b666-e3aee32c8738">
-</div>
 
 # Data Flow
 
