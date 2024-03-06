@@ -29,35 +29,35 @@
 
 
 # Graph Generate Method
-**Step 1:** Classification, Keyword Extraction, Embedding Transformation 
+
+**Step 1:** 분류, 키워드 추출, 임베딩 변환
   
 <img width="300" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/297b0349-e2ff-4f6c-b65a-ec264a4a933f">
 
-
-**Step 2:** Create a Reference Map 
+**Step 2:** 참조 논문 제목 기준 그룹화 맵 생성
   
 <img width="300" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/dfc6eb32-f767-4c4e-867e-d4833731aee4">
 
-**Step 3:** Add a linking column to the Step 1 data using the Reference Map DataFrame 
+**Step 3:** 참조 논문 맵을 통해 기존 데이터에 연관된 논문 리스트 컬럼을 생성 
 
 <img width="300" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/0a1accd7-6bea-4c71-b4f9-f3274cabf202">
 
 
-**Step 4:** Generate the Total Graph using networkX 
+**Step 4:** networkX 를 통해 논문 그래프 생성
 
 <img width="300" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/7939c414-3ef0-4001-b72a-dbac7b3edb51">
 
 
-**Step 5:** Extract a subgraph when the user selects one paper 
+**Step 5:** 사용자가 한 논문을 선택할 때 하위 그래프 추출
 
 <img width="300" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/7df8c8f8-a13f-4a16-83be-987428b6ed55">
 
 
-**Step 6:** Extract a subgraph when the user selects more than two papers 
+**Step 6:** 사용자가 두 개 이상의 논문을 선택할 때 하위 그래프 추출
 
 <img width="300" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/3eaab726-32d8-461f-9b2c-c88566ffb6b4">
 
-**Step 7:** Extract Node, Edge data and Transfer Client
+**Step 7:** 노드, 엣지 데이터 추출 및 전송 클라이언트에 전송
 
 
 
