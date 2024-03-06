@@ -57,7 +57,7 @@
 
 <img width="300" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/3eaab726-32d8-461f-9b2c-c88566ffb6b4">
 
-**Step 7:** 노드, 엣지 데이터 추출 및 전송 클라이언트에 전송
+**Step 7:** networkX에서 노드, 엣지 데이터 추출 및 전송 클라이언트에 전송
 
 
 
