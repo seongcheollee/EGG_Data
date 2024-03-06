@@ -36,7 +36,7 @@
 
 **Step 2:** 참조 논문 제목 기준 그룹화 맵 생성
   
-<img width="500" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/dfc6eb32-f767-4c4e-867e-d4833731aee4">
+<img width="300" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/dfc6eb32-f767-4c4e-867e-d4833731aee4">
 
 **Step 3:** 참조 논문 맵을 통해 기존 데이터에 연관된 논문 리스트 컬럼을 생성 
 
