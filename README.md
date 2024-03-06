@@ -45,17 +45,17 @@
 
 **Step 4:** networkX 를 통해 논문 그래프 생성
 
-<img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/7939c414-3ef0-4001-b72a-dbac7b3edb51">
+<img width="500" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/7939c414-3ef0-4001-b72a-dbac7b3edb51">
 
 
 **Step 5:** 사용자가 한 논문을 선택할 때 하위 그래프 추출
 
-<img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/7df8c8f8-a13f-4a16-83be-987428b6ed55">
+<img width="500" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/7df8c8f8-a13f-4a16-83be-987428b6ed55">
 
 
 **Step 6:** 사용자가 두 개 이상의 논문을 선택할 때 하위 그래프 추출
 
-<img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/3eaab726-32d8-461f-9b2c-c88566ffb6b4">
+<img width="500" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/3eaab726-32d8-461f-9b2c-c88566ffb6b4">
 
 **Step 7:** networkX에서 노드, 엣지 데이터 추출 및 전송 클라이언트에 전송
 
