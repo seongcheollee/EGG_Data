@@ -1,9 +1,8 @@
 # 네트워크 그래프를 통한 논문 탐색 사이트 [Data]
 
-##### Front-End : https://github.com/seongcheollee/Final_Frontend 
-##### Back-End : https://github.com/seongcheollee/Final_Backend
-##### Back-End(Fastapi) : https://github.com/seongcheollee/Egg_Graph_FastAPI
-##### Convert Docker : https://github.com/seongcheollee/spark-yarn-docker
+##### 전체 프로젝트 : https://github.com/eeeeeddy/EGG
+##### 그래프 데이터 API 서버 : https://github.com/seongcheollee/Egg_Graph_FastAPI
+##### 도커 라이징 : https://github.com/seongcheollee/spark-yarn-docker
 
 ### technology Stack
 <div>
