@@ -62,14 +62,14 @@
 
 # [Airflow]
 
-**APi Collection and Preprocessing**
+**수집 및 전처리**
 
 Cycle : 1 Month
 
 <img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/a80d90fb-2d7a-4920-b83e-b553602c6a9f">
 
 
-**Model Training**
+**모델 학습**
 
 Crawling Cycle : 1 day
 
