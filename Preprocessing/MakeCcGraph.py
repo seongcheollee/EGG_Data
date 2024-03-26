@@ -10,7 +10,6 @@ import datetime
 import matplotlib.pyplot as plt
 import networkx as nx
 
-# 세션 생성 및 디비 연동
 spark = SparkSession.builder.appName("preprocessingSpark").getOrCreate()
 client = MongoClient('mongodb://ditto:AbBaDittos!230910*@localhost', 27017)
 
