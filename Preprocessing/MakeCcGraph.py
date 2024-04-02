@@ -137,14 +137,14 @@ def save_df(df, db_name, col_name):
         .mode("overwrite") \
         .save()
 
-now_kci_db_name = "kci_trained_api"
-previous_kci_db_name = "kci_union_data"
+previous_kci_db_name= "kci_trained_api"
+now_kci_db_name = "kci_union_data"
 previous_col_name = "kci_trained_{:04d}{:02d}".format(year, one_month_ago)
 current_col_name = "kci_trained_{:04d}{:02d}".format(year, month)
 
 
-origin_df = get_kci_data(kci_db_name,previous_col_name)
-new_df = get_kci_data(kci_db_name,current_col_name)
+origin_df = get_kci_data(previous_kci_db_name,previous_col_name)
+new_df = get_kci_data(now_kci_db_name,current_col_name)
 uni_df = union_df(origin_df,new_df)
 ref_df = generate_relation(uni_df)
 generate_and_save_graph(ref_df)
