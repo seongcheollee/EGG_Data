@@ -1,4 +1,4 @@
-# 네트워크 그래프를 통한 논문 탐색 사이트 [Data]
+![image](https://github.com/seongcheollee/EGG_Data/assets/59824783/3de6695c-df00-45ba-926d-c48f7b83fcbd)# 네트워크 그래프를 통한 논문 탐색 사이트 [Data]
 
 ##### 전체 프로젝트 : https://github.com/eeeeeddy/EGG
 ##### 그래프 데이터 API 서버 : https://github.com/seongcheollee/Egg_Graph_FastAPI
@@ -42,7 +42,7 @@
 
 **Step 5:** 연관 관계 데이터 및 networkX 를 통해 논문 그래프 생성
 
-<img width="500" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/7939c414-3ef0-4001-b72a-dbac7b3edb51">
+<img width="500" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/8c5cab36-8878-4f4d-b29a-171b2a185f0d">
 
 
 **Step 5:** 사용자가 한 논문을 선택할 때 하위 그래프 추출
