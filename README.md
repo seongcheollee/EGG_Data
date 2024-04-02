@@ -17,21 +17,30 @@
 
 # Graph Generate Method
 
-Step 1: 분류, 키워드, 임베딩 추가된 데이터 가져오기
+**Step 1:** 분류, 키워드, 임베딩 추가된 데이터 가져오기
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/45f833e0-b4bd-42e9-a0d2-25584d3ffa39/f44c55bd-d208-404c-b0d7-a1e3a093aa7a/Untitled.png)
+<img width="400" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/dcf54c71-8495-48cd-a669-97cca8306ec9">
+
 <img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/561e00cc-0422-4918-be18-2775059411f8">
 
-**Step 2:** 참조 논문 제목 기준 그룹화 맵 생성
+**Step 2:** 참조 논문 제목 기준 articleID Explode
 
-<img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/59184850-bd94-4566-807f-5305a1f672c8">
+<img width="400" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/36b0c457-1d42-425e-b077-7823c0bbd6a4">
 
-**Step 3:** 참조 논문 맵을 통해 기존 데이터에 연관된 논문 리스트 컬럼을 생성 
+**Step 3:** 연관관계 테이블 생성
 
-<img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/6c83ad49-e93a-4e95-b576-1bc956e2281a">
+<img width="400" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/3cf7ee4d-08b1-491b-a833-118840f1eda7">
 
 
-**Step 4:** networkX 를 통해 논문 그래프 생성
+**Step 4:** 최종 데이터 산출
+
+<img width="400" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/bdefa374-ae22-4555-9f5c-abf1635075b8">
+
+<img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/f9ff1e69-82a3-4224-91f6-200134565be7">
+
+
+
+**Step 5:** 연관 관계 데이터 및 networkX 를 통해 논문 그래프 생성
 
 <img width="500" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/7939c414-3ef0-4001-b72a-dbac7b3edb51">
 
