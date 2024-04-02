@@ -17,8 +17,9 @@
 
 # Graph Generate Method
 
-**Step 1:** 분류, 키워드 추출, 임베딩 변환
-  
+Step 1: 분류, 키워드, 임베딩 추가된 데이터 가져오기
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/45f833e0-b4bd-42e9-a0d2-25584d3ffa39/f44c55bd-d208-404c-b0d7-a1e3a093aa7a/Untitled.png)
 <img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/561e00cc-0422-4918-be18-2775059411f8">
 
 **Step 2:** 참조 논문 제목 기준 그룹화 맵 생성
