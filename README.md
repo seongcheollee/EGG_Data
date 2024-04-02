@@ -1,4 +1,4 @@
-![image](https://github.com/seongcheollee/EGG_Data/assets/59824783/3de6695c-df00-45ba-926d-c48f7b83fcbd)# 네트워크 그래프를 통한 논문 탐색 사이트 [Data]
+# 네트워크 그래프를 통한 논문 탐색 사이트 [Data]
 
 ##### 전체 프로젝트 : https://github.com/eeeeeddy/EGG
 ##### 그래프 데이터 API 서버 : https://github.com/seongcheollee/Egg_Graph_FastAPI
@@ -21,7 +21,7 @@
 
 <img width="400" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/dcf54c71-8495-48cd-a669-97cca8306ec9">
 
-<img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/561e00cc-0422-4918-be18-2775059411f8">
+<img width="600" height="400" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/561e00cc-0422-4918-be18-2775059411f8">
 
 **Step 2:** 참조 논문 제목 기준 articleID Explode
 
