@@ -4,18 +4,6 @@
 ##### 그래프 데이터 API 서버 : https://github.com/seongcheollee/Egg_Graph_FastAPI
 ##### 도커 라이징 : https://github.com/seongcheollee/spark-yarn-docker
 
-### technology Stack
-<div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">  
-<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">  
-<img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
-<img src="https://img.shields.io/badge/Zookeeper-E95420?style=for-the-badge&logo=Zookeeper&logoColor=white">  
-<img src="https://img.shields.io/badge/apachespark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-<img src="https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
 
 </div>
 
@@ -31,7 +19,7 @@
 
 **Step 1:** 분류, 키워드 추출, 임베딩 변환
   
-<img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/0e9ff13d-5b99-456b-ba2d-499576e68d7b">
+<img width="600" alt="image" src="https://github.com/seongcheollee/EGG_Data/assets/59824783/561e00cc-0422-4918-be18-2775059411f8">
 
 **Step 2:** 참조 논문 제목 기준 그룹화 맵 생성
 
